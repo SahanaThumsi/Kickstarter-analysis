@@ -17,6 +17,7 @@ and their funding goals.
 This analysis was performed by Creating a pivot chart using fields for rows using the
  date created or launched date  and categorities of outcomes as colomn only for theater 
 being a parent category filter.
+![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
 
 
 ### Analysis of Outcomes Based on Goals
