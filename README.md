@@ -17,7 +17,7 @@ and their funding goals.
 This analysis was performed by Creating a pivot chart using fields for rows using the
  date created or launched date  and categorities of outcomes as colomn only for theater 
 being a parent category filter.
-![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
+![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals
@@ -29,7 +29,7 @@ formula for finding successful play who have a goal amount less than 1000 is
 Similarly counts for failed and canceled play were found  for each number range.
 Percentages of there outcomes were also calculated for each category.
 A visual represent via line chart is also used to analyse the percentages of the outcomes 
-based on the goal amount from a less than 1000 to above 50000. 
+based on the goal amount from a less than 1000 to above 50000. ![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
 
 
 
